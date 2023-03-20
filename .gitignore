@@ -1,0 +1,5 @@
+# dependencies
+/backend/node_modules
+/client/node_modules
+.env
+/*/.gitignore

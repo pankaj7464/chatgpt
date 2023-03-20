@@ -1,0 +1,7 @@
+.voice-chat{background: red;
+
+  position: absolute;
+  z-index: 99;
+  right: 1rem;
+  top: 1rem;
+}
